@@ -87,7 +87,7 @@ def hacer_crossover():
         cromosoma_nuevo_1=cromosomas_binario[lista_porcentajes[x]]
         y=randint(0,acum)
         cromosoma_nuevo_2=cromosomas_binario[lista_porcentajes[y]]
-        print('padre1')
+        print('\npadre1')
         print(cromosoma_nuevo_1)
         print('padre2')
         print(cromosoma_nuevo_2)
